@@ -1,26 +1,33 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Nadia! 👋
 
 ## About Me
 
 I'm a passionate Data Analyst and Data Scientist based in Jakarta, Indonesia.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/nadia-nabilla-shafira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nadiae-blue)](https://www.linkedin.com/in/nadia-nabilla-shafira/)
 
 ## Skills
 
 **General Skills**: Exploratory Data Analysis, Time Series Analysis, Machine Learning, Deep Learning.
+
 **Programming Language**: Python, R, SQL.
+
 **Visualization Tools**: Tableau, Kibana.
+
 **Libraries / Framework**: Pandas, Numpy, Matplotlib, Seaborn, Scipy, Feature-Engine, Scikit-learn, Streamlit, TensorFlow Great Expectations.
+
 **Tools**: Visual Studio Code, PostgreSQL, RStudio, Docker, Elasticsearch, Apache Airflow.
+
 **Techniques**: Time Series Analysis, Econometrics Analysis, Supervised Learning, Unsupervised Learning, Natural Language Processing, Computer Vision.
+
 **Modeling Algorithms**: Regression, Logistic Regression, Naive Bayes, KNN, SVM, Decision Tree, Random Forest, K-Means, Clustering, Artificial Neural Network, Recurrent Neural Network, Long Short-Term Memory, Gated Recurrent Unit.
+
 **Others**: Google BigQuery, Hugging Face.
 
 ## Projects
 
-Here are some projects I'm proud of:
+Here are some projects I''ve done:
 
-- [Project 1](Link to Project 1): Brief description
+- [Consumer Behavior and Shopping Habit Analysis]([Link to Project 1](https://github.com/nadianshafira/Consumer-Behavior-and-Shopping-Habit-Analysis)): Implemented an end-to-end data pipeline using Apache Airflow to analyze consumer behavior and shopping habits. Fetched data from PostgreSQL, conducted thorough cleaning, and visualized insights in Elasticsearch with Kibana. Key findings indicate that clothing items are the top-selling products, with both males and females purchasing over 1700 items, underscoring the significant demand for apparel in the market.
 - [Project 2](Link to Project 2): Brief description
 - [Project 3](Link to Project 3): Brief description
 
